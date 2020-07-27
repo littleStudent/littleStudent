@@ -1,4 +1,18 @@
-### Hi there 👋
+# 👋
+Hi there, I am Thomas.
+
+## 👷 - Currently working on
+
+- Building the best way to learn coding on mobile [getmimo.com](https://getmimo.com).
+
+## 🧔 - About
+
+- Name: Thomas Sattlecker
+- Pronouns: he/him
+- Company email: thomas@sattlecker.com
+- Twitter: [@ThomasS09](https://twitter.com/ThomasS09)
+
+![](https://files-jtzllhe91.vercel.app/me.png)
 
 <!--
 **littleStudent/littleStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
