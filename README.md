@@ -3,7 +3,8 @@ Hi there, I am Thomas.
 
 ## 👷 - Currently working on
 
-- Building the best way to learn coding on mobile [getmimo.com](https://getmimo.com).
+- [dev_](https://dev.getmimo.com)
+- [activityvault](https://activityvault.io)
 
 ## 🧔 - About
 
